@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "367501320012",
+    "firebase_url": "https://uassaire-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "uassaire",
+    "storage_bucket": "uassaire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367501320012:android:22bd209314d01cba1439e9",
+        "android_client_info": {
+          "package_name": "com.example.crud_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdv2eeJ95UYiNn5x7DzSjCmtnnyDykVBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367501320012:android:52fc045f282e2bc11439e9",
+        "android_client_info": {
+          "package_name": "com.example.uassaire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdv2eeJ95UYiNn5x7DzSjCmtnnyDykVBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
